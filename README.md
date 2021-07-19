@@ -1,7 +1,11 @@
 # vjcoin
 A simple blockchain in Javascript.
-Features
-Simple proof-of-work algorithm
-Verify blockchain (to prevent tampering)
-Generate wallet (private/public key)
-Sign transactions
+1.Features
+
+2.Simple proof-of-work algorithm
+
+3.Verify blockchain (to prevent tampering)
+
+4.Generate wallet (private/public key)
+
+5.Sign transactions
