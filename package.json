@@ -1,7 +1,7 @@
 {
   "name": "vjcoin",
   "version": "1.0.1",
-  "description": "Simple Blockchain implementation in Javascript. For educational purposes only.",
+  "description": "Simple Blockchain implementation in Javascript.",
   "keywords": [
     "blockchain",
     "transactions",
@@ -14,7 +14,6 @@
     "coverage": "nyc --reporter=lcov npm run test"
   },
   "author": "Vidhi Jain ",
-  "license": "MIT",
   "repository": "github:vidhijainvj/vjcoin",
     },
   "homepage": "https://github.com/vidhijainvj/vjcoin",
